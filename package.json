@@ -7,7 +7,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ddsol/speedtest.net.git"
+    "url": "https://github.com/BoryaGames/speedtest-net.git"
   },
   "dependencies": {
     "@felipecrs/decompress-tarxz": "^4.0.0",
